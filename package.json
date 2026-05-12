@@ -1,0 +1,12 @@
+{
+	"name": "com.eenahh.whwah-audio-systems",
+	"version": "1.0.0",
+	"displayName": "W.H.W.A.H. Audio Systems",
+	"description": "Audio wrapper for unity",
+
+	"author": 
+	{
+		"name": "EENAHH",
+		"url": ""
+	}
+}
