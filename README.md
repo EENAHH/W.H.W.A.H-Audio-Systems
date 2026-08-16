@@ -7,4 +7,4 @@ Asset Store: https://assetstore.unity.com/packages/tools/gui/editorattributes-26
 
 Git Hub: https://github.com/v0lt13/EditorAttributes
 
-Unfortunately unity does not support package dependencies between non-unity packages. You will need to install Editor Attributes through the asset store or with the git url.
+Unfortunately unity does not support automatic package dependencies between 3rd party packages. You will need to install Editor Attributes through the asset store or with the git url.
